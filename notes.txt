@@ -1,1 +1,3 @@
-"connected"  
+POLL 1: https://app.sli.do/event/pDUSqUUcKFAwK5LkJX5SSs
+
+POLL 2: https://app.sli.do/event/8UUvKWR1ciqqkVZhS5bXUs
